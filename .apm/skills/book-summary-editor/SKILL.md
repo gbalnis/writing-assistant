@@ -46,14 +46,13 @@ Use this skeleton, adapting section names to the book type (engineering / organi
 ---
 title: "<Book Title>"
 date: <Date when this document is created in ISO 8601 format>
+markup: markdown
 draft: true
-description: <1-2 sentences describing the essence of the book: what it argues and why it matters>
-tags: <add relevant keywords based on the book's content>
+summary: <1-2 sentences describing the essence of the book: what it argues and why it matters>
+keywords: <add relevant keywords based on the book's content in a human-readable format, no kebab-case!>
 params:
   author: <User's Name>
 ---
-
-# <Book Title>
 
 > Formal citation of the book, use the rulebook for bibliographic references in `<skill-dir>/resources/guide-bibliographic-references-books.md`.
 

@@ -1,5 +1,5 @@
 name: writing-assistant
-version: 1.0.2
+version: 1.0.3
 description: APM project for writing-assistant
 author: Greg Balnis
 # Which agent platforms to deploy to.
