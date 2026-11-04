@@ -1,0 +1,9 @@
+# APM module files
+apm_modules/
+
+# Install dir
+.agents/
+
+# Distribution files
+notes/
+content/

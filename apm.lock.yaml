@@ -1,0 +1,69 @@
+lockfile_version: '1'
+dependencies: []
+deployments:
+- kind: project-relative
+  target: copilot
+  value: .agents/skills/book-summary-editor
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: project-relative
+  target: copilot
+  value: .agents/skills/book-summary-editor/SKILL.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:12a705d2eb7e441d505e3e5b5f7124c09a7ce7704187bb6987f3476ff7dcc36c
+- kind: project-relative
+  target: copilot
+  value: .agents/skills/book-summary-editor/resources/guide-bibliographic-references-books.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:8ba1ed04c7b16e503c72f05738a8f007f7fac5c9148d5a46f8dcd1e6bd27e5f5
+- kind: project-relative
+  target: copilot
+  value: .agents/skills/book-summary-editor/resources/guide-bibliographic-references.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:2f0a88a18f469b52afe23986ad7a58937c726ad9cedfcc1a6ba1c1a652bce248
+- kind: project-relative
+  target: copilot
+  value: .agents/skills/reading-organizer
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: project-relative
+  target: copilot
+  value: .agents/skills/reading-organizer/SKILL.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:8f6f46329715e080b90732aa979c335eff0eb0e1eae3977447ecf7a9c63a44d7
+local_deployed_files:
+- .agents/skills/book-summary-editor
+- .agents/skills/book-summary-editor/SKILL.md
+- .agents/skills/book-summary-editor/resources/guide-bibliographic-references-books.md
+- .agents/skills/book-summary-editor/resources/guide-bibliographic-references.md
+- .agents/skills/reading-organizer
+- .agents/skills/reading-organizer/SKILL.md
+local_deployed_file_hashes:
+  .agents/skills/book-summary-editor/SKILL.md: sha256:12a705d2eb7e441d505e3e5b5f7124c09a7ce7704187bb6987f3476ff7dcc36c
+  .agents/skills/book-summary-editor/resources/guide-bibliographic-references-books.md: sha256:8ba1ed04c7b16e503c72f05738a8f007f7fac5c9148d5a46f8dcd1e6bd27e5f5
+  .agents/skills/book-summary-editor/resources/guide-bibliographic-references.md: sha256:2f0a88a18f469b52afe23986ad7a58937c726ad9cedfcc1a6ba1c1a652bce248
+  .agents/skills/reading-organizer/SKILL.md: sha256:8f6f46329715e080b90732aa979c335eff0eb0e1eae3977447ecf7a9c63a44d7
