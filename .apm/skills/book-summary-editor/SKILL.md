@@ -49,7 +49,7 @@ date: <Date when this document is created in ISO 8601 format>
 markup: markdown
 draft: true
 summary: <1-2 sentences describing the essence of the book: what it argues and why it matters>
-keywords: <add relevant keywords based on the book's content in a human-readable format, no kebab-case!>
+tags: <add relevant keywords based on the book's content in a human-readable format, no kebab-case!>
 params:
   author: <User's Name>
 ---
